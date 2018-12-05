@@ -1,4 +1,5 @@
-**内容来自黄海广博士https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes**，这里保存自己常用的，以方便在其它地方放入链接
+**内容来自黄海广博士https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes**
+这里保存自己常用的，以方便在其它地方放入链接
 
 **以下为原README内容**
 
